@@ -1,6 +1,6 @@
 # Dark Mode component
 
-Check out the component [here](https://ioannis-sporidis.github.io/rc-dark-mode/)
+Check out the component [here](https://the-fetaverse.github.io/rc-dark-mode/)
 
 ### Inspired by Dan Abramov's blog *[Overreacted](https://overreacted.io/)*
 
